@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=Fix
+name=Fix_Lsp_Magisk
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=loveelysia5291
+description=Hot reboot required in jailbreak mode
 template=3
